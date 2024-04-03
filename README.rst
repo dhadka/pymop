@@ -1,3 +1,8 @@
+import pymop.problems
+pymop.problems.Rastrigin().evaluate([-5.12]*2)
+
+
+
 pymop - Multi-Objective Optimization Problems
 ==========================================================================
 

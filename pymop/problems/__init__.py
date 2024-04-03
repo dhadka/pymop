@@ -20,3 +20,4 @@ from pymop.problems.welded_beam import *
 from pymop.problems.zakharov import *
 from pymop.problems.zdt import *
 from pymop.problems.g import *
+from pymop.problems.himmelblau import *
